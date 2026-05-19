@@ -34,7 +34,6 @@ O laboratório foi estruturado com 4 máquinas virtuais conectadas em rede inter
 
 ### Auditoria e Compliance
 - Lynis
-- OpenSCAP
 
 ### Monitoramento
 - Wazuh
@@ -239,7 +238,9 @@ Este projeto proporcionou experiência prática em:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**João Henrique**  
-Estudante de Segurança Cibernética
+**Alisson F. Andrade**
+**João Vitor Rodrigues chiarioni**
+**Tiago Bezerra de Almeida Silva**  
+Estudantes de Segurança Cibernética
