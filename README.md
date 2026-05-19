@@ -241,6 +241,8 @@ Este projeto proporcionou experiência prática em:
 ## 👨‍💻 Autores
 
 **Alisson F. Andrade**
+
 **João Vitor Rodrigues chiarioni**
+
 **Tiago Bezerra de Almeida Silva**  
 Estudantes de Segurança Cibernética
