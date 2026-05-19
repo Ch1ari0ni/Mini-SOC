@@ -1,0 +1,21 @@
+ROOTDIR is `/'
+Checking `syslogd'...                                       not tested
+Checking `aliens'...                                        no suspect files
+Searching for suspicious files and dirs, it may take a while... The following suspicious files and directories were found:
+/usr/lib/ruby/gems/3.0.0/gems/rbs-1.0.4/.rubocop.yml
+/usr/lib/ruby/gems/3.0.0/gems/power_assert-1.2.0/.travis.yml
+/usr/lib/ruby/gems/3.0.0/gems/minitest-5.14.2/.autotest
+/usr/lib/ruby/vendor_ruby/rubygems/ssl_certs/.document
+/usr/lib/ruby/vendor_ruby/rubygems/optparse/.document
+/usr/lib/ruby/vendor_ruby/rubygems/tsort/.document
+/usr/lib/modules/5.15.0-173-generic/vdso/.build-id
+
+Checking `lkm'...                                           chkproc: nothing detected
+chkdirs: nothing detected
+Checking `sniffer'...                                       Output from ifpromisc:
+lo: not promisc and no packet sniffer sockets
+enp0s3: PACKET SNIFFER(/usr/lib/systemd/systemd-networkd[641])
+Checking `wted'...                                          1 deletion(s) between Wed Mar 25 00:58:07 2026 and Thu Mar 26 00:17:43 2026
+Checking `z2'...                                            chklastlog: nothing deleted
+Checking `chkutmp'...                                       chkutmp: nothing deleted
+Checking `OSX_RSPLUG'...                                    not tested

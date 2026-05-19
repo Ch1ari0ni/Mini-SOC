@@ -1,0 +1,101 @@
+timestamp,agent.name,rule.description,rule.level,rule.id
+"Mar 26, 2026 @ 20:21:25.530",ubuntu,New user added to the system.,8,5902
+"Mar 26, 2026 @ 20:21:25.479",ubuntu,Attacks followed by the addition of an user.,15,40501
+"Mar 26, 2026 @ 20:21:07.234",ubuntu,PAM: Login session opened.,3,5501
+"Mar 26, 2026 @ 20:21:07.165",ubuntu,Multiple authentication failures followed by a success.,12,40112
+"Mar 26, 2026 @ 20:21:07.165",ubuntu,PAM: Login session opened.,3,5501
+"Mar 26, 2026 @ 20:20:48.968",ubuntu,syslog: User authentication failure.,5,2501
+"Mar 26, 2026 @ 20:19:17.924",ubuntu,syslog: User authentication failure.,5,2501
+"Mar 26, 2026 @ 20:18:25.514",ubuntu,PAM: Login session closed.,3,5502
+"Mar 26, 2026 @ 20:18:17.459",ubuntu,syslog: User missed the password more than one time,10,2502
+"Mar 26, 2026 @ 20:18:17.450",ubuntu,syslog: User missed the password more than one time,10,2502
+"Mar 26, 2026 @ 20:18:17.444",ubuntu,syslog: User missed the password more than one time,10,2502
+"Mar 26, 2026 @ 20:18:15.353",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:15.350",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:15.347",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:15.332",ubuntu,PAM: Login session closed.,3,5502
+"Mar 26, 2026 @ 20:18:13.340",ubuntu,PAM: Login session opened.,3,5501
+"Mar 26, 2026 @ 20:18:13.339",ubuntu,PAM: Login session opened.,3,5501
+"Mar 26, 2026 @ 20:18:13.313",ubuntu,Multiple authentication failures followed by a success.,12,40112
+"Mar 26, 2026 @ 20:18:11.335",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:11.333",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:11.333",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:11.308",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:09.307",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:07.308",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:07.307",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:07.305",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:05.300",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:03.297",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:03.295",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:18:03.292",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:59.291",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:59.289",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:59.288",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:59.287",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:57.279",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:55.282",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:55.280",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:55.277",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:53.276",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:51.271",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:51.269",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:51.267",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:49.268",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:47.265",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:47.263",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:47.259",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:47.259",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:43.261",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:43.258",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:43.253",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:43.251",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:41.251",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:41.250",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:41.243",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:39.240",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:37.250",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:37.245",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:37.245",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:37.243",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:35.246",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:35.245",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:35.245",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:35.241",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:33.293",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:33.293",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:33.238",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:31.241",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:29.241",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:29.238",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:29.235",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:29.235",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:25.240",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:25.239",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:25.239",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:25.238",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:23.241",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:23.238",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:23.238",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:23.235",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:19.229",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:19.226",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:19.223",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:19.220",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:17.224",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:17.221",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:17.217",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:17.213",ubuntu,sshd: brute force trying to get access to the system. Authentication failed.,10,5763
+"Mar 26, 2026 @ 20:17:13.255",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:13.255",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:13.255",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:13.209",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:11.214",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:11.211",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:11.208",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:11.206",ubuntu,sshd: authentication failed.,5,5760
+"Mar 26, 2026 @ 20:17:09.211",ubuntu,PAM: User login failed.,5,5503
+"Mar 26, 2026 @ 20:17:09.208",ubuntu,PAM: User login failed.,5,5503
+"Mar 26, 2026 @ 20:17:09.206",ubuntu,PAM: User login failed.,5,5503
+"Mar 26, 2026 @ 20:17:09.205",ubuntu,PAM: User login failed.,5,5503
+"Mar 26, 2026 @ 20:16:59.201",ubuntu,PAM: Login session closed.,3,5502
